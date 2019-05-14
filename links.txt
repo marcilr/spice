@@ -8,6 +8,14 @@ Spice related links
 
 Links
 =====
+Package: spice-vdagent (0.15.0-1.2)
+Spice agent for Linux
+spice-vdagent is the spice agent for Linux, it is used in
+conjunction with spice-compitable hypervisor, its feature
+includes: \* Client mouse mode (no need to grab mouse by
+client, no mouse lag)
+https://packages.debian.org/jessie/spice-vdagent
+
 Simple Protocol for Independent Computing Environments
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Simple_Protocol_for_Independent_Computing_Environments
