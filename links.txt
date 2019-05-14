@@ -19,3 +19,14 @@ https://packages.debian.org/jessie/spice-vdagent
 Simple Protocol for Independent Computing Environments
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Simple_Protocol_for_Independent_Computing_Environments
+
+SPICE
+The SPICE project aims to provide a complete open source solution
+for remote access to virtual machines in a seamless way so you can
+play videos, record audio, share usb devices and share folders
+without complications.
+https://www.spice-space.org/
+
+Spice for Newbiews, Draft 2
+SPICE Project
+https://www.spice-space.org/static/docs/spice_for_newbies.pdf
